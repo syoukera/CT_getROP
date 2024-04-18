@@ -1,0 +1,3 @@
+output/*
+input/*
+!input/df_strage_20Pulses_20kHz.csv
